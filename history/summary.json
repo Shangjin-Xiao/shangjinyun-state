@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.shangjinyun.cn.ico",
     "slug": "",
     "status": "down",
-    "uptime": "15129.64%",
+    "uptime": "13441.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 354,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2024-11-03": -172
+      "2024-11-03": -171
     }
   },
   {
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.shangjinyun.cn.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "5377.70%",
+    "uptime": "4778.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -45,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/photo.shangjinyun.cn.ico",
     "slug": "",
     "status": "down",
-    "uptime": "15013.07%",
+    "uptime": "13345.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -56,7 +56,7 @@
     "timeMonth": 354,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2024-11-03": -172
+      "2024-11-03": -171
     }
   },
   {
@@ -65,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hub.shangjinyun.cn.ico",
     "slug": "",
     "status": "down",
-    "uptime": "14960.81%",
+    "uptime": "13302.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -76,7 +76,7 @@
     "timeMonth": 354,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2024-11-03": -172
+      "2024-11-03": -171
     }
   },
   {
@@ -85,7 +85,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ai.shangjinyun.cn.ico",
     "slug": "ai",
     "status": "down",
-    "uptime": "67949.73%",
+    "uptime": "26233.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -105,7 +105,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/file.shangjinyun.cn.ico",
     "slug": "shangjinyun-global",
     "status": "down",
-    "uptime": "91787.91%",
+    "uptime": "29075.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
