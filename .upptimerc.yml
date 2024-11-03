@@ -3,13 +3,18 @@ owner: Shangjin-Xiao # Your GitHub organization or username, where this reposito
 repo: shangjinyun-state # The name of this repository
 
 sites:
-  - name: shangjinyun.cn
+  - name: 上晋云
     url: https://www.shangjinyun.cn
-  - name: blog.shangjinyun.cn
+  - name: 上晋的blog
     url: https://blog.shangjinyun.cn
-  - name: photo.shangjinyun.cn
-    url: https://photo.shangjinyun.cn
-
+  - name: 上晋云照片
+    url: https://photo.shangjinyun.cn 
+  - name: 上晋云文件
+    url: https://hub.shangjinyun.cn
+  - name: 上晋云AI
+    url: https://ai.shangjinyun.cn
+  - name: shangjinyun-global
+    url: https://file.shangjinyun.cn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,8 +23,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**上晋云**服务器状态 "
+  introMessage: 您可以在此处查看上晋云的服务状态，上晋云有关储存的服务仅在周五-周日 6:00-23:00提供。
   navbar:
     - title: Status
       href: /
