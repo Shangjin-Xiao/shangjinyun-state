@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.shangjinyun.cn.ico",
     "slug": "",
     "status": "down",
-    "uptime": "1644.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 340,
-    "timeWeek": 340,
-    "timeMonth": 340,
-    "timeYear": 340,
+    "uptime": "163.56%",
+    "uptimeDay": "69.00%",
+    "uptimeWeek": "69.00%",
+    "uptimeMonth": "69.00%",
+    "uptimeYear": "69.00%",
+    "time": 291,
+    "timeDay": 291,
+    "timeWeek": 291,
+    "timeMonth": 291,
+    "timeYear": 291,
     "dailyMinutesDown": {
-      "2024-11-03": -93
+      "2024-11-03": -20
     }
   },
   {
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.shangjinyun.cn.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "999.46%",
+    "uptime": "188.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -36,7 +36,7 @@
     "timeMonth": 332,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2024-11-03": -54
+      "2024-11-03": -28
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/photo.shangjinyun.cn.ico",
     "slug": "",
     "status": "down",
-    "uptime": "1640.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 340,
-    "timeWeek": 340,
-    "timeMonth": 340,
-    "timeYear": 340,
+    "uptime": "163.49%",
+    "uptimeDay": "68.96%",
+    "uptimeWeek": "68.96%",
+    "uptimeMonth": "68.96%",
+    "uptimeYear": "68.96%",
+    "time": 291,
+    "timeDay": 291,
+    "timeWeek": 291,
+    "timeMonth": 291,
+    "timeYear": 291,
     "dailyMinutesDown": {
-      "2024-11-03": -93
+      "2024-11-03": -20
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hub.shangjinyun.cn.ico",
     "slug": "",
     "status": "down",
-    "uptime": "1639.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 340,
-    "timeWeek": 340,
-    "timeMonth": 340,
-    "timeYear": 340,
+    "uptime": "163.43%",
+    "uptimeDay": "68.91%",
+    "uptimeWeek": "68.91%",
+    "uptimeMonth": "68.91%",
+    "uptimeYear": "68.91%",
+    "time": 291,
+    "timeDay": 291,
+    "timeWeek": 291,
+    "timeMonth": 291,
+    "timeYear": 291,
     "dailyMinutesDown": {
-      "2024-11-03": -93
+      "2024-11-03": -20
     }
   },
   {
@@ -85,7 +85,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ai.shangjinyun.cn.ico",
     "slug": "ai",
     "status": "down",
-    "uptime": "1204.83%",
+    "uptime": "197.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -96,7 +96,7 @@
     "timeMonth": 58,
     "timeYear": 58,
     "dailyMinutesDown": {
-      "2024-11-03": -55
+      "2024-11-03": -30
     }
   },
   {
@@ -105,7 +105,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/file.shangjinyun.cn.ico",
     "slug": "shangjinyun-global",
     "status": "down",
-    "uptime": "22.01%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -115,8 +115,6 @@
     "timeWeek": 307,
     "timeMonth": 307,
     "timeYear": 307,
-    "dailyMinutesDown": {
-      "2024-11-03": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
