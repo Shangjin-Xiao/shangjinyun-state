@@ -1,60 +1,122 @@
 [
   {
-    "name": "shangjinyun.cn",
+    "name": "上晋云",
     "url": "https://www.shangjinyun.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.shangjinyun.cn.ico",
-    "slug": "shangjinyun-cn",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 279,
-    "timeWeek": 279,
-    "timeMonth": 279,
-    "timeYear": 279,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "blog.shangjinyun.cn",
-    "url": "https://blog.shangjinyun.cn",
-    "icon": "https://icons.duckduckgo.com/ip3/blog.shangjinyun.cn.ico",
-    "slug": "blog-shangjinyun-cn",
+    "slug": "",
     "status": "down",
-    "uptime": "305.32%",
+    "uptime": "15129.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 247,
-    "timeWeek": 247,
-    "timeMonth": 247,
-    "timeYear": 247,
+    "time": 354,
+    "timeDay": 354,
+    "timeWeek": 354,
+    "timeMonth": 354,
+    "timeYear": 354,
     "dailyMinutesDown": {
-      "2024-11-03": -40
+      "2024-11-03": -172
     }
   },
   {
-    "name": "photo.shangjinyun.cn",
-    "url": "https://photo.shangjinyun.cn",
-    "icon": "https://icons.duckduckgo.com/ip3/photo.shangjinyun.cn.ico",
-    "slug": "photo-shangjinyun-cn",
+    "name": "上晋的blog",
+    "url": "https://blog.shangjinyun.cn",
+    "icon": "https://icons.duckduckgo.com/ip3/blog.shangjinyun.cn.ico",
+    "slug": "blog",
     "status": "down",
-    "uptime": "308.19%",
+    "uptime": "5377.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 332,
+    "timeDay": 332,
+    "timeWeek": 332,
+    "timeMonth": 332,
+    "timeYear": 332,
     "dailyMinutesDown": {
-      "2024-11-03": -41
+      "2024-11-03": -59
+    }
+  },
+  {
+    "name": "上晋云照片",
+    "url": "https://photo.shangjinyun.cn",
+    "icon": "https://icons.duckduckgo.com/ip3/photo.shangjinyun.cn.ico",
+    "slug": "",
+    "status": "down",
+    "uptime": "15013.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 354,
+    "timeDay": 354,
+    "timeWeek": 354,
+    "timeMonth": 354,
+    "timeYear": 354,
+    "dailyMinutesDown": {
+      "2024-11-03": -172
+    }
+  },
+  {
+    "name": "上晋云文件",
+    "url": "https://hub.shangjinyun.cn",
+    "icon": "https://icons.duckduckgo.com/ip3/hub.shangjinyun.cn.ico",
+    "slug": "",
+    "status": "down",
+    "uptime": "14960.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 354,
+    "timeDay": 354,
+    "timeWeek": 354,
+    "timeMonth": 354,
+    "timeYear": 354,
+    "dailyMinutesDown": {
+      "2024-11-03": -172
+    }
+  },
+  {
+    "name": "上晋云AI",
+    "url": "https://ai.shangjinyun.cn",
+    "icon": "https://icons.duckduckgo.com/ip3/ai.shangjinyun.cn.ico",
+    "slug": "ai",
+    "status": "down",
+    "uptime": "67949.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 58,
+    "timeDay": 58,
+    "timeWeek": 58,
+    "timeMonth": 58,
+    "timeYear": 58,
+    "dailyMinutesDown": {
+      "2024-11-03": -60
+    }
+  },
+  {
+    "name": "shangjinyun-global",
+    "url": "https://file.shangjinyun.cn",
+    "icon": "https://icons.duckduckgo.com/ip3/file.shangjinyun.cn.ico",
+    "slug": "shangjinyun-global",
+    "status": "down",
+    "uptime": "91787.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 307,
+    "timeDay": 307,
+    "timeWeek": 307,
+    "timeMonth": 307,
+    "timeYear": 307,
+    "dailyMinutesDown": {
+      "2024-11-03": -60
     }
   }
 ]
